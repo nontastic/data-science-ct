@@ -1,2 +1,2 @@
 # data-science-ct
-Kurs Neo für mein MCiT Bachelor Data Science LV
+Kurs Repo für mein MCiT Bachelor Data Science LV
